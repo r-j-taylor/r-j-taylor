@@ -1,5 +1,5 @@
 ## Welcome!
-I'm currently working in a full-stack development role creating enterprise software, with a focus on REST APIs and the Middle Tier. In my free-time, I like to learn about open-source self-hosted software, and I'd be happy to help with anything similar. 
+I'm currently working in a server development role creating backend services. In my free-time, I like to learn about open-source self-hosted software, and I'd be happy to help with anything similar. 
 
 #### Find Me Elsewhere:
 <ul>
